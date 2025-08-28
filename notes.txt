@@ -1,4 +1,0 @@
-requirements:
-- online purchase
-- QR code
-
