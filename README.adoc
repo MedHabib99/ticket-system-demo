@@ -1,5 +1,34 @@
-# Ticket System Demo
-DVC-E1 evidence repo.
+== DVC-E1 – Belege (Git/GitHub)
 
-This repo proves: add/commit/diff/status/push.
-Pulled from GitHub (sync test).
+Öffentliches Repo: https://github.com/MedHabib99/ticket-system-demo
+PR an Upstream (edlich/education): https://github.com/edlich/education/pull/557
+
+// Schritt 1–2
+image::Evidence/1.png[width=900]
+image::Evidence/2.png[width=900]
+image::Evidence/3.png[width=900]
+image::Evidence/4.png[width=900]
+image::Evidence/5.png[width=900]
+
+// Schritt 3
+image::Evidence/6.png[width=900]
+image::Evidence/7.png[width=900]
+
+// Schritt 4
+image::Evidence/8.png[width=900]
+image::Evidence/9.png[width=900]
+image::Evidence/10.png[width=900]
+
+// Schritt 5
+image::Evidence/11.png[width=900]
+image::Evidence/12.png[width=900]
+
+// Schritt 6
+image::Evidence/13.png[width=900]
+
+// Schritt 7
+image::Evidence/14.png[width=900]
+
+// Schritt 8 – PR an edlich/education
+image::Evidence/15.png[width=900]
+image::Evidence/16.png[width=900]
