@@ -2,3 +2,4 @@
 DVC-E1 evidence repo.
 
 This repo proves: add/commit/diff/status/push.
+Pulled from GitHub (sync test).
